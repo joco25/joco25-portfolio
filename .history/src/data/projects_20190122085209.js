@@ -4,7 +4,7 @@ export const projects = [
     type: "Business",
     client: "Apvocate Limited",
     description:
-      "Built and is actively maintained using React and React-Native. Helping businesses to work with their loyal customers to achieve even more success through advocacy.",
+      "Built using React and React-Native and is actively maintained. Helping businesses to work with their loyal customers to achieve even more success through advocacy.",
     techStack:
       "React, React-Native, Redux, Firebase, Mocha, Cloud functions, Enzyme, Facebook API, Twitter API",
     extra: "Part of freeCodeCamp Organisation.",
@@ -20,7 +20,7 @@ export const projects = [
     client: "Softcom Limited",
     description:
       "Senior Front End Engineer for Data platform for that empowers organisations to collect data on the field by providing a visual form builder, agents managements and data analytics backend.",
-    techStack: "Node.js, Expressjs, React, Redux, UIKit, Angular",
+    techStack: "Node.js, Expressjs, Angularjs, Bootstrap",
     extra: null,
     link: "https://softcom.ng/success-stories/mtn-trade-visibility",
     github: {

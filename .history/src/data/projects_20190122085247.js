@@ -20,7 +20,7 @@ export const projects = [
     client: "Softcom Limited",
     description:
       "Senior Front End Engineer for Data platform for that empowers organisations to collect data on the field by providing a visual form builder, agents managements and data analytics backend.",
-    techStack: "Node.js, Expressjs, React, Redux, UIKit, Angular",
+    techStack: "Node.js, Expressjs, Angularjs, Bootstrap",
     extra: null,
     link: "https://softcom.ng/success-stories/mtn-trade-visibility",
     github: {

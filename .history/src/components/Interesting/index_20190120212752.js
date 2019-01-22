@@ -19,8 +19,8 @@ class Intersting extends Component {
 
   handleClick() {
     this.setState({
-      text: this.state.show ? "That's Enough!" : "Show me more",
-      show: !this.state.show
+      show: !this.state.show,
+      text: "That's Enough!"
     });
   }
 
