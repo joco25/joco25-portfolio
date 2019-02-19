@@ -22,7 +22,7 @@ const SocialLinks = () => {
           </a>
         </li>
         <li>
-          <a href="https://medium.com/@joco25">
+          <a href="https://medium.com/@onungwej">
             <FaMedium />
           </a>
         </li>
